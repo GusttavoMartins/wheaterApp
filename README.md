@@ -1,16 +1,3 @@
 # wheater_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O WeatherApp é um aplicativo desenvolvido em Flutter que se conecta a uma API de dados meteorológicos em tempo real para fornecer informações precisas sobre o clima. Com uma interface intuitiva, ele oferece previsões climáticas previstas, alertas de condições adversas e uma experiência de usuário ambiental para manter os usuários sempre informados sobre as condições climáticas atuais e futuras.
